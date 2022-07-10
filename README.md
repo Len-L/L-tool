@@ -8,6 +8,8 @@ L-tool is equipped with port scan, bruteforce attack (ssh)
 <br>
 > python3 L-script-install.py
 <br>
+> git clone https://github.com/Len-L/L-tool.git
+<br>
 <br>
 <br>
 
